@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/dark-honeycomb.png");
+}
+.btn{
+    margin-top: 7px;
+    background-color: rgb(56, 53, 53, .85);
+    width: 70%
+}
+.card{
+    background-color:rgb(74, 82, 94, .8);
+}
+.dev{
+    font-size: 35px;
+}
+#name{
+    font-family: 'Viga', sans-serif;
+    color: white;
+    font-size: 55px;
+}
+#title{
+    font-family: 'Viga', sans-serif;
+    color: white;
+    font-size: 35px;
+}
+p{
+    color:white;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 20px
+}
+.link{
+    color:white;
+}
+#contact{
+    font-size: 25px;
+}
