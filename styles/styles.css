@@ -4,7 +4,7 @@ body{
 .btn{
     margin-top: 7px;
     background-color: rgb(56, 53, 53, .85);
-    width: 70%
+    width: 80%
 }
 .card{
     background-color:rgb(74, 82, 94, .8);
@@ -25,11 +25,15 @@ body{
 p{
     color:white;
     font-family: 'Archivo Narrow', sans-serif;
-    font-size: 20px
+    font-size: 17px
 }
 .link{
     color:white;
 }
 #contact{
     font-size: 25px;
+}
+.info{
+    color:white;
+    font-size: 15px
 }
