@@ -1,6 +1,14 @@
 body{
     background-image: url("../images/dark-honeycomb.png");
 }
+.me{
+    width: 85%;
+    height: 80%
+}
+img{
+    width: 80%;
+    height: 15%
+}
 .btn{
     margin-top: 7px;
     background-color: rgb(56, 53, 53, .85);
