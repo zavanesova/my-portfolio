@@ -3,11 +3,12 @@ body{
 }
 .me{
     width: 85%;
-    height: 80%
+    height: 70%
 }
+
 img{
-    width: 80%;
-    height: 15%
+    width: 150px;
+    height: 140px
 }
 .btn{
     margin-top: 7px;
@@ -44,4 +45,7 @@ p{
 .info{
     color:white;
     font-size: 15px
+}
+.end{
+    padding-top: 5px;   
 }
